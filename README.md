@@ -110,21 +110,6 @@ Kullanıcı dostu arayüzü sayesinde filmler, diziler ve canlı TV kanallarına
 
 ---
 
-# 📂 Proje Yapısı
-
-```
-lib/
-├── core/
-├── features/
-├── models/
-├── services/
-├── widgets/
-├── screens/
-└── main.dart
-```
-
----
-
 # 📄 Sürüm
 
 **Current Version**
